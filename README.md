@@ -3,17 +3,15 @@ Streamlit Image Generation Chatbot
 An AI-powered image generation chatbot built using Streamlit, featuring a chat-style interface, real-time image generation via APIs, and efficient image fetching & caching.
 This project was developed and demonstrated as part of a hands-on GenAI workshop at DataVista.
 
-✨ Features
+Features
 
-💬 Chat-based UI using Streamlit
+Chat-based UI using Streamlit
 
-🎨 AI image generation from text prompts
+AI image generation from text prompts
 
-⚡ Real-time API integration
+Real-time API integration
 
-🧠 Session-based chat history
-
-🗂️ Image fetching and caching for performance
+Image fetching and caching for performance
 
 🔄 Clean state management with st.session_state
 
@@ -34,8 +32,8 @@ State Management: Streamlit Session State
 
 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/streamlit-image-chatbot.git
-cd streamlit-image-chatbot
+git clone https://github.com/sasmit206/iecse_ws.git
+cd iecse_ws
 ```
 
 2️⃣ Create a Virtual Environment 
@@ -52,8 +50,7 @@ pip install -r requirements.txt
 
 4️⃣ Configure API Keys
 
-Create a .env file in the root directory and add your image generation API key:
-```
+Create a API key on hugging face and add it at ADD API KEY
 IMAGE_API_KEY=your_api_key_here
 ```
 
