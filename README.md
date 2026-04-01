@@ -1,7 +1,7 @@
 Streamlit Image Generation Chatbot
 
 An AI-powered image generation chatbot built using Streamlit, featuring a chat-style interface, real-time image generation via APIs, and efficient image fetching & caching.
-This project was developed and demonstrated as part of a hands-on GenAI workshop at DataVista.
+This project was developed and demonstrated as part of a hands-on GenAI workshop at Prometheus'26.
 
 Features
 
